@@ -1,0 +1,216 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 50000.0,
+            "quantity": 6,
+            "min_stock": 8
+        },
+        {
+            "id": 2,
+            "name": "Mouse",
+            "category": "Electronics",
+            "price": 500.0,
+            "quantity": 19,
+            "min_stock": 10
+        },
+        {
+            "id": 3,
+            "name": "Mobile phone",
+            "category": "Electronics",
+            "price": 15000.0,
+            "quantity": 6,
+            "min_stock": 5
+        },
+        {
+            "id": 4,
+            "name": "keyboard",
+            "category": "Electronics",
+            "price": 800.0,
+            "quantity": 5,
+            "min_stock": 5
+        }
+    ],
+    "sales": [
+        {
+            "invoice": "SS-20261014235934515493",
+            "date": "2026-10-14 23:59:34",
+            "line_items": [
+                {
+                    "product_id": 1,
+                    "product_name": "Laptop",
+                    "quantity": 1,
+                    "unit_price": 50000.0,
+                    "subtotal": 50000.0
+                }
+            ],
+            "product_name": "Laptop",
+            "quantity": 1,
+            "subtotal": 50000.0,
+            "discount": 0.0,
+            "tax": 0.0,
+            "total": 50000.0
+        },
+        {
+            "invoice": "SS-20261015000023584196",
+            "date": "2026-10-15 00:00:23",
+            "line_items": [
+                {
+                    "product_id": 1,
+                    "product_name": "Laptop",
+                    "quantity": 9,
+                    "unit_price": 50000.0,
+                    "subtotal": 450000.0
+                }
+            ],
+            "product_name": "Laptop",
+            "quantity": 9,
+            "subtotal": 450000.0,
+            "discount": 0.0,
+            "tax": 0.0,
+            "total": 450000.0
+        },
+        {
+            "invoice": "SW-20261015013053963726",
+            "date": "2026-10-15 01:30:53",
+            "line_items": [
+                {
+                    "product_id": 1,
+                    "product_name": "Laptop",
+                    "quantity": 1,
+                    "unit_price": 50000.0,
+                    "subtotal": 50000.0
+                },
+                {
+                    "product_id": 2,
+                    "product_name": "Mouse",
+                    "quantity": 1,
+                    "unit_price": 500.0,
+                    "subtotal": 500.0
+                }
+            ],
+            "product_name": "Laptop, Mouse",
+            "quantity": 2,
+            "subtotal": 50500.0,
+            "discount": 1010.0,
+            "tax": 8908.2,
+            "total": 58398.2
+        },
+        {
+            "invoice": "SW-20261015014530986204",
+            "date": "2026-10-15 01:45:30",
+            "line_items": [
+                {
+                    "product_id": 2,
+                    "product_name": "Mouse",
+                    "quantity": 25,
+                    "unit_price": 500.0,
+                    "subtotal": 12500.0
+                }
+            ],
+            "product_name": "Mouse",
+            "quantity": 25,
+            "subtotal": 12500.0,
+            "discount": 0.0,
+            "tax": 0.0,
+            "total": 12500.0
+        },
+        {
+            "invoice": "SW-20261015104511755230",
+            "date": "2026-10-15 10:45:11",
+            "line_items": [
+                {
+                    "product_id": 4,
+                    "product_name": "keyboard",
+                    "quantity": 5,
+                    "unit_price": 800.0,
+                    "subtotal": 4000.0
+                }
+            ],
+            "product_name": "keyboard",
+            "quantity": 5,
+            "subtotal": 4000.0,
+            "discount": 0.0,
+            "tax": 0.0,
+            "total": 4000.0
+        },
+        {
+            "invoice": "SW-20261015142119602278",
+            "date": "2026-10-15 14:21:19",
+            "line_items": [
+                {
+                    "product_id": 1,
+                    "product_name": "Laptop",
+                    "quantity": 1,
+                    "unit_price": 50000.0,
+                    "subtotal": 50000.0
+                }
+            ],
+            "product_name": "Laptop",
+            "quantity": 1,
+            "subtotal": 50000.0,
+            "discount": 0.0,
+            "tax": 0.0,
+            "total": 50000.0
+        },
+        {
+            "invoice": "SW-20261015142401862177",
+            "date": "2026-10-15 14:24:01",
+            "line_items": [
+                {
+                    "product_id": 1,
+                    "product_name": "Laptop",
+                    "quantity": 1,
+                    "unit_price": 50000.0,
+                    "subtotal": 50000.0
+                }
+            ],
+            "product_name": "Laptop",
+            "quantity": 1,
+            "subtotal": 50000.0,
+            "discount": 0.0,
+            "tax": 0.0,
+            "total": 50000.0
+        },
+        {
+            "invoice": "SW-20261016204156263784",
+            "date": "2026-10-16 20:41:56",
+            "line_items": [
+                {
+                    "product_id": 2,
+                    "product_name": "Mouse",
+                    "quantity": 1,
+                    "unit_price": 500.0,
+                    "subtotal": 500.0
+                }
+            ],
+            "product_name": "Mouse",
+            "quantity": 1,
+            "subtotal": 500.0,
+            "discount": 0.0,
+            "tax": 0.0,
+            "total": 500.0
+        },
+        {
+            "invoice": "SW-20261016235450238472",
+            "date": "2026-10-16 23:54:50",
+            "line_items": [
+                {
+                    "product_id": 1,
+                    "product_name": "Laptop",
+                    "quantity": 1,
+                    "unit_price": 50000.0,
+                    "subtotal": 50000.0
+                }
+            ],
+            "product_name": "Laptop",
+            "quantity": 1,
+            "subtotal": 50000.0,
+            "discount": 0.0,
+            "tax": 0.0,
+            "total": 50000.0
+        }
+    ]
+}
